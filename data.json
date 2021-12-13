@@ -1,0 +1,37 @@
+{
+    "Test": {
+        "Score": 7,
+        "Combinaison": [
+            "Bleu",
+            "Vert",
+            "Vert",
+            "Jaune"
+        ],
+        "Propositions": [
+            [
+                "Orange",
+                "Bleu",
+                "Vert",
+                "Rouge"
+            ],
+            [
+                "Orange",
+                "Bleu",
+                "Vert",
+                "Jaune"
+            ],
+            [
+                "Orange",
+                "Vert",
+                "Vert",
+                "Jaune"
+            ],
+            [
+                "Bleu",
+                "Vert",
+                "Vert",
+                "Jaune"
+            ]
+        ]
+    }
+}
